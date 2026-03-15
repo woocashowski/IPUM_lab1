@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e2beab3-293f-4813-bb14-a45f2307a1d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/config/.env.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/.env.prod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/.env.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/.env.dev" beforeDir="false" afterPath="$PROJECT_DIR$/config/.env.dev" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773563093852</updated>
-      <workItem from="1773563095497" duration="2836000" />
+      <workItem from="1773563095497" duration="9083000" />
     </task>
     <servers />
   </component>
